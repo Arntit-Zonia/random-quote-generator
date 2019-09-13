@@ -1,7 +1,7 @@
-import React, { useState } from "react";
+import React from "react";
 
-const QuoteText = () => {
-	return <div>Quote Text</div>;
+const QuoteText = ({ quote }) => {
+	return <div>{quote}</div>;
 };
 
 export default QuoteText;
