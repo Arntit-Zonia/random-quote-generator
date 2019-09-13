@@ -1,10 +1,12 @@
 # random-quote-generator
 
--User is greeted to a quote on page load
--User has the ability to share a quote on Twitter
--New quote button generates a new quote
+- User is greeted to a quote on page load
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- User has the ability to share a quote on Twitter
+
+- New quote button generates a new quote
+
+# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
