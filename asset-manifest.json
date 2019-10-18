@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.cd426d83.chunk.js",
-    "main.js.map": "/static/js/main.cd426d83.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.bf1f5f83.js",
-    "runtime~main.js.map": "/static/js/runtime~main.bf1f5f83.js.map",
-    "static/js/2.6617156b.chunk.js": "/static/js/2.6617156b.chunk.js",
-    "static/js/2.6617156b.chunk.js.map": "/static/js/2.6617156b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.31201da390fe4789753ee95c99ec8517.js": "/precache-manifest.31201da390fe4789753ee95c99ec8517.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "/Arntit-Zonia/random-quote-generator.git/static/js/main.cd426d83.chunk.js",
+    "main.js.map": "/Arntit-Zonia/random-quote-generator.git/static/js/main.cd426d83.chunk.js.map",
+    "runtime~main.js": "/Arntit-Zonia/random-quote-generator.git/static/js/runtime~main.693994cb.js",
+    "runtime~main.js.map": "/Arntit-Zonia/random-quote-generator.git/static/js/runtime~main.693994cb.js.map",
+    "static/js/2.6617156b.chunk.js": "/Arntit-Zonia/random-quote-generator.git/static/js/2.6617156b.chunk.js",
+    "static/js/2.6617156b.chunk.js.map": "/Arntit-Zonia/random-quote-generator.git/static/js/2.6617156b.chunk.js.map",
+    "index.html": "/Arntit-Zonia/random-quote-generator.git/index.html",
+    "precache-manifest.abb71fec756f8fcf6185e86ed55bae75.js": "/Arntit-Zonia/random-quote-generator.git/precache-manifest.abb71fec756f8fcf6185e86ed55bae75.js",
+    "service-worker.js": "/Arntit-Zonia/random-quote-generator.git/service-worker.js"
   }
 }
