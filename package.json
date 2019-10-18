@@ -2,7 +2,7 @@
 	"name": "random-quote-generator",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://github.com/Arntit-Zonia/random-quote-generator.git",
+	"homepage": "https://arntit-zonia.github.io/random-quote-generator/",
 	"dependencies": {
 		"gh-pages": "^2.1.1",
 		"react": "^16.9.0",
