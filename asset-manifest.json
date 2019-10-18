@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Arntit-Zonia/random-quote-generator.git/static/css/main.2f0d2896.chunk.css",
-    "main.js": "/Arntit-Zonia/random-quote-generator.git/static/js/main.15c49583.chunk.js",
-    "main.js.map": "/Arntit-Zonia/random-quote-generator.git/static/js/main.15c49583.chunk.js.map",
-    "runtime~main.js": "/Arntit-Zonia/random-quote-generator.git/static/js/runtime~main.693994cb.js",
-    "runtime~main.js.map": "/Arntit-Zonia/random-quote-generator.git/static/js/runtime~main.693994cb.js.map",
-    "static/js/2.341033a6.chunk.js": "/Arntit-Zonia/random-quote-generator.git/static/js/2.341033a6.chunk.js",
-    "static/js/2.341033a6.chunk.js.map": "/Arntit-Zonia/random-quote-generator.git/static/js/2.341033a6.chunk.js.map",
-    "index.html": "/Arntit-Zonia/random-quote-generator.git/index.html",
-    "precache-manifest.9ebe210103bdc31376bdaccdcc0d6423.js": "/Arntit-Zonia/random-quote-generator.git/precache-manifest.9ebe210103bdc31376bdaccdcc0d6423.js",
-    "service-worker.js": "/Arntit-Zonia/random-quote-generator.git/service-worker.js",
-    "static/css/main.2f0d2896.chunk.css.map": "/Arntit-Zonia/random-quote-generator.git/static/css/main.2f0d2896.chunk.css.map"
+    "main.css": "/random-quote-generator/static/css/main.2f0d2896.chunk.css",
+    "main.js": "/random-quote-generator/static/js/main.15c49583.chunk.js",
+    "main.js.map": "/random-quote-generator/static/js/main.15c49583.chunk.js.map",
+    "runtime~main.js": "/random-quote-generator/static/js/runtime~main.0c675ebf.js",
+    "runtime~main.js.map": "/random-quote-generator/static/js/runtime~main.0c675ebf.js.map",
+    "static/js/2.341033a6.chunk.js": "/random-quote-generator/static/js/2.341033a6.chunk.js",
+    "static/js/2.341033a6.chunk.js.map": "/random-quote-generator/static/js/2.341033a6.chunk.js.map",
+    "index.html": "/random-quote-generator/index.html",
+    "precache-manifest.1a103dbab848d685f79f37034bf48a60.js": "/random-quote-generator/precache-manifest.1a103dbab848d685f79f37034bf48a60.js",
+    "service-worker.js": "/random-quote-generator/service-worker.js",
+    "static/css/main.2f0d2896.chunk.css.map": "/random-quote-generator/static/css/main.2f0d2896.chunk.css.map"
   }
 }
