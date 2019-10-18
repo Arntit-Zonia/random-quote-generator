@@ -31,4 +31,6 @@ export const quotes = [
 	}
 ];
 
-export let randomItem = quotes[Math.floor(Math.random() * quotes.length)];
+export const randomItem = () => {
+	return quotes[Math.floor(Math.random() * quotes.length)];
+};

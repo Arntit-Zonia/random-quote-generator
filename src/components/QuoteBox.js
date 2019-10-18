@@ -2,27 +2,24 @@ import React, { useState } from "react";
 
 import QuoteText from "./QuoteText";
 import QuoteAuthor from "./QuoteAuthor";
-import { randomItem, quotes } from "./randomQuote";
+import { randomItem } from "./randomQuote";
 
-const initialQuote = randomItem.quote;
-const initialAuthor = randomItem.author;
+const initialQuote = randomItem();
 
 const QuoteBox = () => {
 	const [quote, setQuote] = useState(initialQuote);
-	const [author, setAuthor] = useState(initialAuthor);
 
 	const updateQuote = () => {
-		setQuote(quotes[Math.floor(Math.random() * quotes.length)].quote);
-		setAuthor(quotes[Math.floor(Math.random() * quotes.length)].author);
+		setQuote(randomItem());
 	};
 
 	return (
 		<div id="quote-box" className="m-auto">
 			<div id="text" className="text-white lead">
-				<QuoteText quote={quote} />
+				<QuoteText quote={quote.quote} />
 			</div>
 			<div id="author" className="ml-5 text-white">
-				<QuoteAuthor author={author} />
+				<QuoteAuthor author={quote.author} />
 			</div>
 			<div className="d-flex justify-content-between mt-3">
 				<a href="https://twitter.com/intent/tweet/" id="tweet-quote">
