@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Arntit-Zonia/random-quote-generator.git/precache-manifest.abb71fec756f8fcf6185e86ed55bae75.js"
+  "/Arntit-Zonia/random-quote-generator.git/precache-manifest.9ebe210103bdc31376bdaccdcc0d6423.js"
 );
 
 self.addEventListener('message', (event) => {

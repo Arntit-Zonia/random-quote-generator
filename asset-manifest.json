@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.js": "/Arntit-Zonia/random-quote-generator.git/static/js/main.cd426d83.chunk.js",
-    "main.js.map": "/Arntit-Zonia/random-quote-generator.git/static/js/main.cd426d83.chunk.js.map",
+    "main.css": "/Arntit-Zonia/random-quote-generator.git/static/css/main.2f0d2896.chunk.css",
+    "main.js": "/Arntit-Zonia/random-quote-generator.git/static/js/main.15c49583.chunk.js",
+    "main.js.map": "/Arntit-Zonia/random-quote-generator.git/static/js/main.15c49583.chunk.js.map",
     "runtime~main.js": "/Arntit-Zonia/random-quote-generator.git/static/js/runtime~main.693994cb.js",
     "runtime~main.js.map": "/Arntit-Zonia/random-quote-generator.git/static/js/runtime~main.693994cb.js.map",
-    "static/js/2.6617156b.chunk.js": "/Arntit-Zonia/random-quote-generator.git/static/js/2.6617156b.chunk.js",
-    "static/js/2.6617156b.chunk.js.map": "/Arntit-Zonia/random-quote-generator.git/static/js/2.6617156b.chunk.js.map",
+    "static/js/2.341033a6.chunk.js": "/Arntit-Zonia/random-quote-generator.git/static/js/2.341033a6.chunk.js",
+    "static/js/2.341033a6.chunk.js.map": "/Arntit-Zonia/random-quote-generator.git/static/js/2.341033a6.chunk.js.map",
     "index.html": "/Arntit-Zonia/random-quote-generator.git/index.html",
-    "precache-manifest.abb71fec756f8fcf6185e86ed55bae75.js": "/Arntit-Zonia/random-quote-generator.git/precache-manifest.abb71fec756f8fcf6185e86ed55bae75.js",
-    "service-worker.js": "/Arntit-Zonia/random-quote-generator.git/service-worker.js"
+    "precache-manifest.9ebe210103bdc31376bdaccdcc0d6423.js": "/Arntit-Zonia/random-quote-generator.git/precache-manifest.9ebe210103bdc31376bdaccdcc0d6423.js",
+    "service-worker.js": "/Arntit-Zonia/random-quote-generator.git/service-worker.js",
+    "static/css/main.2f0d2896.chunk.css.map": "/Arntit-Zonia/random-quote-generator.git/static/css/main.2f0d2896.chunk.css.map"
   }
 }
